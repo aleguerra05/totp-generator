@@ -1,0 +1,19 @@
+{
+  "name": "totp-generator",
+  "version": "1.0.0",
+  "description": "This is a simple TOTP (Time-based One-Time Password) generator that generates TOTP codes for multiple accounts.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "totp-generator": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}

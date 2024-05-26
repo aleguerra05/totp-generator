@@ -1,0 +1,12 @@
+{
+    "keys":[
+        {
+            "account":"Google Account",
+            "token":"AAAAAAAAAAAAAAAA"
+        },
+        {
+            "account":"GitHub Account",
+            "token":"BBBBBBBBBBBBBBBB"
+        }
+    ]
+}
